@@ -1,3 +1,4 @@
 Flask
 gunicorn
 requests
+git+https://github.com/zadarma/user-api-v1.git
